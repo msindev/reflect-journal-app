@@ -1,0 +1,7 @@
+{
+  "name": "reflect-journal-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
